@@ -45,4 +45,3 @@ If you have a suggestion that would make this better, please fork the repo and c
 ## Credits
 
 - [ipapi.co](https://ipapi.co/) for API
-- [othneildrew](https://github.com/othneildrew/Best-README-Template) for readme.md
